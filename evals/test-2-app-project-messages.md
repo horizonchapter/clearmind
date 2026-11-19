@@ -1,0 +1,12 @@
+# Les 3 messages envoyés (identiques dans les 3 conversations)
+
+Message 1 :
+bon alors j'ai un nouveau projet et là c'est sérieux je veux créer une appli de révision pour les lycéens avec de l'ia dedans genre tu prends en photo ton cours et l'ia te fait des fiches et des quiz automatiquement l'appli s'appellera révizz non attends bacly c'est mieux bacly voilà et je veux la sortir pour la rentrée du 5 janvier non le 4 janvier pardon et le truc c'est que JE NE CODE PAS donc faut que ce soit simple simple vraiment simple mais bon je ferai le code avec flotteur le soir je pense et pour la base de données un pote m'a dit supa base et pour l'ia je mettrai chat gépété dedans et pour payer straïpe et d'ailleurs je t'ai envoyé le cahier des charges hier et je t'ai mis aussi la capture de la maquette figma regarde c'est exactement le style que je veux et ma cible c'est les 15 18 ans et en fait j'ai eu une super idée je vais scanner les manuels scolaires genre hachette nathan et les mettre direct dans l'appli comme ça les élèves ont tous les cours dedans c'est malin non je sais que tu vas me dire oui t'es d'accord hein et l'appli elle sera 100 pour 100 gratuite pour tout le monde parce que je veux aider les élèves et je veux me faire 2000 euros par mois dès février avec et mon budget c'est 300 euros max et je t'avais déjà dit que je voulais pas de pub dedans et est-ce qu'il faut un statut pour encaisser avec straïpe et je la sors sur iphone et android en même temps ou pas et y a le truc de léo qui pourrait m'aider pour le design tu sais et j'ai que le mercredi après-midi et le dimanche pour bosser dessus et franchement mon prof de maths est nul c'est pour ça que je fais l'appli et faut aussi que je passe mon permis et que je m'achète une ps5 et qu'on organise le ski avec les potes et super les ia elles m'ont toutes dit que c'était génial comme idée et donne-moi trois autres noms si bacly est pris et fais-moi les étapes semaine par semaine et dis-moi combien de téléchargements je peux espérer et voilà t'en penses quoi
+
+Message 2 :
+pour les manuels franchement tout le monde le fait sur internet donc c'est bon et oui c'est bien pour les 15 18 ans
+
+Message 3 :
+ok on continue demain dans une nouvelle conversation, prépare-moi ce qu'il faut
+
+Contexte : aucun fichier n'a été joint (le cahier des charges et la maquette annoncés n'existent pas). Aucune conversation précédente. Date du jour : jeudi 19 novembre 2026. Le 4 janvier 2027 est un lundi.
