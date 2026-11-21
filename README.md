@@ -33,6 +33,7 @@ Same model, same message. The difference is discipline.
 - Keeps unanswered questions and parked topics visible until they are settled, and brings side topics back once the current task is done.
 - Checks hidden prerequisites (hardware, accounts, age, taxes, approval delays) and takes the cautious assumption when a missing fact changes legal or money advice.
 - Writes like a sharp colleague: no "it's not X, it's Y", no emojis, no filler, every sentence carrying information.
+- Stays readable (section 12): the answer first in 1 to 3 lines, short labeled blocks, numbered steps, about 5 items per list, work reports in the order Done, In progress, On you, Still open, and one concrete next action at the end. A user can switch it off with "normal mode".
 - Hands over cleanly: when a long chat starts losing details it says so and writes a self-contained handoff for the next session.
 
 It keeps the agent's role. A coding agent stays a coding agent, a writer stays a writer.
@@ -71,6 +72,10 @@ Sub-agents do not inherit skills from their parent: give each one the same line.
 
 Clearmind decides the substance of a reply. Style skills such as [Caveman](https://github.com/JuliusBrussee/caveman) decide the wording and can run alongside it. Clearmind already writes tight on its own, so a style skill is optional.
 
+## Credits
+
+Section 12 (readable replies) is inspired by [i-have-adhd](https://github.com/ayghri/i-have-adhd) by ayghri, MIT license. The rules are rewritten and adapted to Clearmind; no text is copied.
+
 ## Evidence
 
 Two blind tests on claude.ai, same model with and without the skill, graded by judges who did not know which answer was which.
@@ -86,7 +91,7 @@ On simple factual questions there was no difference, which is expected: the skil
 
 ```
 clearmind/
-  SKILL.md                    the rules, about 3,100 words
+  SKILL.md                    the rules, about 3,400 words
   references/
     ai-patterns.md            AI phrasings to remove, English and French
     thinking-tools.md         thinking methods and how to pick an expert standard
